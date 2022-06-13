@@ -1,3 +1,0 @@
-E:/CMakeTutorials/2Cmake/build/CMakeFiles/test.dir
-E:/CMakeTutorials/2Cmake/build/CMakeFiles/edit_cache.dir
-E:/CMakeTutorials/2Cmake/build/CMakeFiles/rebuild_cache.dir
